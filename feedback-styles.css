@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: rgb(145, 255, 0);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:#42f5bf ;
+}

@@ -1,0 +1,95 @@
+.jumbotron {
+    background-color: rgb(229, 255, 0);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: blueviolet;
+    font-size: 25px;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+body {
+    background-color: yellowgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+li {
+    list-style-type: square;
+    margin: 5px;
+    padding: 5px;
+}
+
+a {
+    background-color: lightsalmon;
+    color: purple;
+    text-decoration: none;
+}
+
+ul {
+    background-color: orangered;
+}
+
+#most-favorite {
+    background-color: cyan;
+    text-decoration: underline;
+}
+
+.second-favorite {
+    background-color: green;
+
+}
+
+#page-title {
+    text-shadow: 4px 3px magenta ;
+}
+
+#favorite-movie-title {
+    background-color: lightgreen;
+    text-shadow: 2px 3px purple;
+}
+
+#favorite-music-name {
+    background-color: fuchsia;
+    text-shadow: 2px 3px purple;
+}
+
+.favorite-image {
+    display: block;
+    border: 10px solid red;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.favorite-section {
+    background-color: yellow;
+    border: 3px black double;
+    margin: 10px;
+    padding: 15px;
+}
+
+table, th, td, th {
+    border: 1px black solid;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: auto;
+}
+
+tr:nth-child(even) {
+    background-color: aquamarine;
+}
+
+tr:nth-child(odd) {
+    background-color: darkcyan;
+}
